@@ -1,2 +1,10 @@
 codebank/.pgdata
 codebank/.env
+
+*/node_modules
+*/.env
+*/.devcontainer
+*/dist
+
+store-frontend/.next
+store-frontend/out
